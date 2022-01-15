@@ -1,0 +1,2 @@
+voila==0.2.6
+ipwidgets==7.6.3
